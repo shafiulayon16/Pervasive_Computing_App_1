@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Golf Player</string>
+    <string-array name="playerList">
+        <item>Tommy Aaron</item>
+        <item> Francisco Abreu</item>
+        <item>Warren Abery</item>
+        <item>Ludvig Åberg</item>
+        <item>Brad Adamonis</item>
+        <item>Blake Adams</item>
+        <item>Sam Adams</item>
+        <item>Paul Affleck</item>
+        <item>Joe Affrunti</item>
+        <item>Jim Ahern</item>
+        <item>Jaco Ahlers</item>
+        <item>Antti Ahokas</item>
+        <item>Thomas Aiken</item>
+        <item>Jim Albus</item>
+    </string-array>
+</resources>
