@@ -12,9 +12,9 @@
         android:id="@+id/listviewID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:divider="#040A78"
+        android:divider="#ED1313"
         android:dividerHeight="3px"
-        android:listSelector="#24ED2D"
+        android:listSelector="#4ECADA"
         />
 
 
